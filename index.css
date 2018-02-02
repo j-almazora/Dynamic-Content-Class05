@@ -1,0 +1,25 @@
+#controls {
+    position: relative;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    width: 200px;
+    height: auto;
+}
+
+#display {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    width: 30vw;
+    height: 30vh;
+    text-align: center;
+    font-size: 2.5rem;
+
+}
